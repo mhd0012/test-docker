@@ -3,7 +3,7 @@ name: Django CI/CD with Docker
 on:
   push:
     branches:
-      - main  # Trigger on push to main branch
+      - start  # Trigger on push to main branch
 
 jobs:
   build:
