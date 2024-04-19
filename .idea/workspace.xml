@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad355f32-e1b9-4ee7-8479-4ecd15fd18c3" name="Changes" comment="d">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/githooks.post-merge" beforeDir="false" />
-    </list>
+    <list default="true" id="ad355f32-e1b9-4ee7-8479-4ecd15fd18c3" name="Changes" comment="d" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,7 +122,7 @@
       <workItem from="1713287469115" duration="9090000" />
       <workItem from="1713382755747" duration="2661000" />
       <workItem from="1713504767788" duration="737000" />
-      <workItem from="1713508873804" duration="1737000" />
+      <workItem from="1713508873804" duration="2066000" />
     </task>
     <task id="LOCAL-00001" summary="d">
       <option name="closed" value="true" />
